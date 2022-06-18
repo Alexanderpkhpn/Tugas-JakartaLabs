@@ -4,6 +4,8 @@
   <test thread-count="5" name="Test" parallel="methods">
     <classes>
       <class name="TugasPertemuan3.AutomationPageFactory"/>
+      <class name="TugasPertemuan4.AutomationPage"/>
+      <class name="TugasPertemuan5.Tugas5"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
