@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="11021" started-at="2022-06-17T12:37:28Z" finished-at="2022-06-17T12:37:39Z">
+  <suite name="Suite" duration-ms="8219" started-at="2022-06-18T05:00:35Z" finished-at="2022-06-18T05:00:44Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="11021" started-at="2022-06-17T12:37:28Z" finished-at="2022-06-17T12:37:39Z">
-      <class name="TugasPertemuan4.AppTest">
-        <test-method status="PASS" signature="createChromeDriver()[pri:0, instance:TugasPertemuan4.AppTest@71238fc2]" name="createChromeDriver" is-config="true" duration-ms="7890" started-at="2022-06-17T12:37:28Z" finished-at="2022-06-17T12:37:36Z">
+    <test name="Test" duration-ms="8219" started-at="2022-06-18T05:00:35Z" finished-at="2022-06-18T05:00:44Z">
+      <class name="TugasPertemuan3.AutomationPageFactory">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TugasPertemuan3.AutomationPageFactory@71238fc2]" name="setUp" is-config="true" duration-ms="5883" started-at="2022-06-18T05:00:35Z" finished-at="2022-06-18T05:00:41Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createChromeDriver -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:TugasPertemuan4.AppTest@71238fc2]" name="test1" duration-ms="1962" started-at="2022-06-17T12:37:36Z" finished-at="2022-06-17T12:37:38Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:TugasPertemuan3.AutomationPageFactory@71238fc2]" name="testLogin" duration-ms="1335" started-at="2022-06-18T05:00:42Z" finished-at="2022-06-18T05:00:43Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="quitChromeDriver()[pri:0, instance:TugasPertemuan4.AppTest@71238fc2]" name="quitChromeDriver" is-config="true" duration-ms="958" started-at="2022-06-17T12:37:38Z" finished-at="2022-06-17T12:37:39Z">
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TugasPertemuan3.AutomationPageFactory@71238fc2]" name="tearDown" is-config="true" duration-ms="728" started-at="2022-06-18T05:00:43Z" finished-at="2022-06-18T05:00:44Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- quitChromeDriver -->
-      </class> <!-- TugasPertemuan4.AppTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- tearDown -->
+      </class> <!-- TugasPertemuan3.AutomationPageFactory -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
