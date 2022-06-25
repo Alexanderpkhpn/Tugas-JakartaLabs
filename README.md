@@ -1,4 +1,4 @@
-# TUGAS JAKARTA LABS
+# Task JAKARTA LABS
 
 Hi, my name is Alexander. This is the task repository as long as I Join the QA Automation Bootcamp at Jakarta Labs.
 
@@ -26,6 +26,11 @@ This task contains about:
 This task contains about:
 - Created a simple test automation API on registers using RestAssured on https://kolakproject.herokuapp.com. The scenario that is being done is to open https://kolakproject.herokuapp.com, then create a variable that is useful for storing the data needed in the body of the API. Where the data is accommodated using Faker, which aims to make the data drawn randomly. After the data is stored in the variable, the data will be sent to the https://kolakproject.herokuapp.com/register endpoint with the POST method. After the data is sent, an assert will be made on the status code which aims to ensure that the register runs properly.
 - The project can be open in Package TugasPertemuan4 and Run Tugas5Runner.java.
+
+## Task 6 (Load Test/Performance Test with JMeter)
+Tugas ini berisi tentang :
+- Create a simple Loadtest with 4 points : Loadtest, Graphql, Db, Weighted. I used Jmeter to make those 4 points to test the loadtest.
+- Open your jmeter and open file may2022.jmx
 
 
 
