@@ -5,13 +5,14 @@ Hi, my name is Alexander. This is the task repository as long as I Join the QA A
 ## Task 1 (Introduction Java)
 This task contains about:
 
-Make input an array of at least 3 members using Tree Maps, Tree Set and HashMap
-The project can be open in Package TugasPertemuan1 and Run TreeMaps.java or TreeSet.java or Hash.java
+*Make input an array of at least 3 members using Tree Maps, Tree Set and HashMap
+*The project can be open in Package TugasPertemuan1 and Run TreeMaps.java or TreeSet.java or Hash.java
 
 ## Task 2 (OOP In Java)
 This task contains about:
 
 Create a calculator for multiplication, division, addition, and subtraction with OOP concepts in Java and add an error handler if the user enters an incorrect input
+
 The project can be open in Package TugasPertemuan2 and Run CalculatorMain.java
 
 ## Task 3 (Automation Test For UI with Selenium)
