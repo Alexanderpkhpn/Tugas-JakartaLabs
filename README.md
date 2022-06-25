@@ -28,7 +28,7 @@ This task contains about:
 - The project can be open in Package TugasPertemuan4 and Run Tugas5Runner.java.
 
 ## Task 6 (Load Test/Performance Test with JMeter)
-Tugas ini berisi tentang :
+This task contains about:
 - Create a simple Loadtest with 4 points : Loadtest, Graphql, Db, Weighted. I used Jmeter to make those 4 points to test the loadtest.
 - Open your jmeter and open file may2022.jmx
 
